@@ -1,0 +1,41 @@
+
+.heading
+{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    box-shadow: -15px 30px 40px orange;
+    margin-top: 0px;
+    
+}
+.note
+{
+    font-size: 13px;
+    color: black;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.copyright_footer
+{
+  position:fixed;
+  background-color: orange;
+  color: black;
+  width: 100%;
+  line-height: 3;
+  bottom: 0px;
+  text-align: center;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body
+{
+    background-size: cover;
+    background-color:skyblue;
+}
+canvas
+{
+    border: 10px solid black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px orange;
+    background-color: white;
+}
